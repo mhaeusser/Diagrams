@@ -16,3 +16,11 @@ You need plantuml.jar. Unfortunately, the file cannot be automatically downloade
 
 Some diagrams require an installation of graphviz (https://www.graphviz.org/download/ → https://graphviz.gitlab.io/_pages/Download/Download_windows.html).
 
+##### AsciiDoc folder
+
+With AsciiDoctor installed, diagrams can be created inside AsciiDoc files.
+
+AsciiDoctor needs Ruby (https://www.ruby-lang.org/de/ → https://rubyinstaller.org). Once Ruby is installed, execute `gem install asciidoctor` and `gem install asciidoctor-diagram`.
+
+To use IntelliJ IDEA as an editor, open an .adoc file with it an die IDE will suggest downloading the right plugin.
+
