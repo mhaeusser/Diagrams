@@ -1,0 +1,26 @@
+﻿de.wikipedia.org/wiki/Rahmenzeichen
+de.wikipedia.org/wiki/Unicodeblock_Rahmenzeichnung
+en.wikipedia.org/wiki/Box-drawing_character
+
+
+     ├── base
+     │
+     ├── persistence
+     └── core
+
+
+
+ ┌──┬──┐  ╔══╦══╗ ╒══╤══╕ ╓──╥──╖
+ │  │  │  ║  ║  ║ │  │  │ ║  ║  ║
+ ├──┼──┤  ╠══╬══╣ ╞══╪══╡ ╟──╫──╢
+ │  │  │  ║  ║  ║ │  │  │ ║  ║  ║
+ └──┴──┘  ╚══╩══╝ ╘══╧══╛ ╙──╨──╜
+
+
+www.key-shortcut.com/schriftsysteme/35-symbole/pfeile/
+←
+↑
+→
+↓
+↔
+↕
