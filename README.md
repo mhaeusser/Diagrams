@@ -22,5 +22,7 @@ With AsciiDoctor installed, diagrams can be created inside AsciiDoc files.
 
 AsciiDoctor needs Ruby (https://www.ruby-lang.org/de/ → https://rubyinstaller.org). Once Ruby is installed, execute `gem install asciidoctor` and `gem install asciidoctor-diagram` (see http://asciidoctor.org/docs/asciidoctor-diagram/).
 
+As above, an installation of graphviz is required. You need `C:\Program Files (x86)\Graphviz2.38\bin` in your PATH.
+
 To use IntelliJ IDEA as an editor, open an .adoc file with it an die IDE will suggest downloading the right plugin.
 
