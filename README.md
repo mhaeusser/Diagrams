@@ -26,3 +26,5 @@ As above, an installation of graphviz is required. You need `C:\Program Files (x
 
 To use IntelliJ IDEA as an editor, open an .adoc file with it an die IDE will suggest downloading the right plugin.
 
+To write the images to disk, let the files start with `:imagesoutdir: <folder>`.
+

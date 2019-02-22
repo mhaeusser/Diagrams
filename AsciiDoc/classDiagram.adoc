@@ -1,3 +1,5 @@
+:imagesoutdir: images
+
 [plantuml, diagram-classes, png]
 ....
 class BlockProcessor

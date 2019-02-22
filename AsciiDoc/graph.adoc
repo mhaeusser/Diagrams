@@ -1,3 +1,5 @@
+:imagesoutdir: images
+
 [graphviz, dot-example, svg]
 ----
 digraph g {
