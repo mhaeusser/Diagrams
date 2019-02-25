@@ -1,0 +1,7 @@
+// srcDir = "code"
+
+[source,java]
+.HashMapIterationOrderExample.java
+----
+include::code/HashMapIterationOrderExample.java[tags=iterate]
+----
