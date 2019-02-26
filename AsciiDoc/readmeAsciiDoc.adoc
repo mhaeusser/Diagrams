@@ -1,0 +1,4 @@
+
+https://powerman.name/doc/asciidoc
+
+https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
