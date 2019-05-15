@@ -37,7 +37,8 @@ $LaTeX$
 
 :smiley:
 
-
+\!\[\](filename)
+![](counter.gif)
 
 | Abk. | Bedeutung                   |
 | ---- | --------------------------- |
