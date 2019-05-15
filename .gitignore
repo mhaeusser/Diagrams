@@ -1,5 +1,4 @@
 *.png
-*.svg
 *.class
 plantuml.jar
 .idea
