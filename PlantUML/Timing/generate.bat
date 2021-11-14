@@ -1,2 +1,2 @@
-java -jar ..\plantuml.jar timing.txt
+java -jar ..\plantuml.jar timing.puml
 	

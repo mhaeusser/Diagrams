@@ -1,2 +1,2 @@
-java -jar ..\plantuml.jar state.txt
+java -jar ..\plantuml.jar state.puml
 	

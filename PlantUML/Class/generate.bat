@@ -1,2 +1,2 @@
-java -jar ..\plantuml.jar classDiagram.txt
+java -jar ..\plantuml.jar classDiagram.puml
 	

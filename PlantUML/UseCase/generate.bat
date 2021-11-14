@@ -1,1 +1,1 @@
-java -jar ..\plantuml.jar actorsAndNotes.txt actorAndArrows.txt
+java -jar ..\plantuml.jar actorsAndNotes.puml actorAndArrows.puml

@@ -1,2 +1,2 @@
-java -jar ..\plantuml.jar components.txt interfaces.txt componentAndInterfacesAndNotes.txt componentsInGroups.txt
+java -jar ..\plantuml.jar components.puml interfaces.puml componentAndInterfacesAndNotes.puml componentsInGroups.puml
 	

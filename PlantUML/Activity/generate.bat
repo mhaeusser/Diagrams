@@ -1,1 +1,1 @@
-java -jar ..\plantuml.jar activity_repeat.txt activity_while.txt activity_arrows.txt activity_swimlanes.txt
+java -jar ..\plantuml.jar activity_repeat.puml activity_while.puml activity_arrows.puml activity_swimlanes.puml

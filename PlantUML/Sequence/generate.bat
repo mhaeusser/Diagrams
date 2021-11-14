@@ -1,1 +1,1 @@
-java -jar ..\plantuml.jar sequenceDiagram1.txt sequenceDiagram2.txt
+java -jar ..\plantuml.jar sequenceDiagram1.puml sequenceDiagram2.puml

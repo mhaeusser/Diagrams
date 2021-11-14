@@ -1,2 +1,2 @@
-java -jar ..\plantuml.jar deployment1.txt deployment2.txt
+java -jar ..\plantuml.jar deployment1.puml deployment2.puml
 	
